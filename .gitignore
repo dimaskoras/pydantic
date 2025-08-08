@@ -1,5 +1,5 @@
 __pycache__/
 
-configs/__pycache__/
-
+src/configs/__pycache__/
+*.pyc
 *.sqlite3/
